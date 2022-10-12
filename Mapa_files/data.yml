@@ -1,0 +1,254 @@
+settings:
+  image:
+    src: "Mapa_files/map/Athira_Etha.jpeg"
+    size: [4143, 4000]
+  position: [2974, 2117]
+  zoom:
+    base: -3
+    min: -10
+    max: 10
+  icon:
+    iconUrl: "Mapa_files/assets/images/marker.svg"
+    iconSize: [24, 24]
+    iconAnchor: [12, 12]
+    popupAnchor: [0, -16]
+    shadowUrl: ""
+    shadowSize: [0, 0]
+    shadowAnchor: [0, 0]
+locations:
+  - name: "Antaras"
+    location: [4030, 1950]
+    description: "El unico asentamiento civilizado de este continente y base del Gremio de Exploradores. Todas las expediciones comienzan y terminan en este lugar. Asegurate de visitar la taberna y armarte de algun grupo antes de salir."
+    link: "http://antaras.codexarcana.org/"
+  - name: "Puesto de Avanzada de la Vanguardia [6931]"
+    location: [3845, 1914]
+    description: "En el bosque de Antaras, un puesto de Avanzada de la Vanguardia ofrece recompensa por diferentes trabajos exclusivos para expedicionarios. Punto de Interes apto solo para expedicionarios novatos, nivel 1."
+    link: ""
+  - name: "Ciudadela [5328]"
+    location: [2965, 2116]
+    description: "Un extraño Castillo visto desde lo lejos rodeado de un poblado amurallado. Ninguna expedición tiene permiso de acercarse a este lugar"
+  - name: "Punto de Interes Completado [6030]"
+    location: [3376, 2005]
+    description: "Riunei. Una ciudad sin murallas donde los edificios forman un laberinto, las armas no estan permitidas. Solo aquellos considerados Amigos de la Ciudad son bienvenido para descansar durante sus expediciones."
+  - name: "Punto de Interes Completado [6229]"
+    location: [3489, 2080]
+    description: "Monasterio del Alma. Sobre la montaña flota ahora el Monasterio, de sus cimientos llenos de cristales mágicos emanan cascadas de agua sagrada que enriquecen la flora de la zona. El lugar es protegido por una orden de enanos seguidores de Sharindlar y hay una ruta maritima desde Antaras pero esta bloqueada por piratas."
+  - name: "Punto de Interes Completado [5233]"
+    location: [2949, 1818]
+    description: "Barsi, un pueblo que sufrio bajo la maldicion que ellos mismos se impusieron, ahora yace abandonado."
+  - name: "Punto de Interes Completado [6032] - Punto Maestro"
+    location: [3377, 1890]
+    description: "Caballeros de la Orden Final. El gran fuerte de los Caballeros de la Orden Final se encuentra en ruinas. Un campamento de la Orden del Guantelete resguarda el lugar en vigilia."
+  - name: "Punto de Interes Completado [5829]"
+    location: [3267, 2062]
+    description: "La gente de Felistein liberada de los pactos de las brujas, se alejan del lugar, dejando atrás una tierra infértil como en un principio. El bosque custodiado por terribles guardianes, aquellos que intenten volver a entrar, se perderán sin remedio."
+  - name: "Punto de Interes Completado [6538]"
+    location: [3619, 1478]
+    description: "Tras una explosión alquímica de una cura contaminada el pueblo de Daruin es inmune a la niebla tóxica que cubre el valle, pero los habitantes lucen ahora como esqueletos, se desconocen efectos a largo plazo."
+  - name: "Punto de Interes Completado [4830]"
+    location: [2706, 1994]
+    description: "Mansion Applerich. Luego de tratar de ayudar a Gerald Applerich los expedicionarios son expulsados y vetados por matar a su tío. Ahora solo podrán festejar con visitantes que tampoco pueden entrar en la mansion. "
+  - name: "Punto de Interes Completado [5432]"
+    location: [3049, 1896]
+    description: "La memoria de los expedicionarios ha sido alterada, pero una reconstrucción nos permite saber que alguna vez hubo una ciudad bajo tierra aquí, donde ahora ya no hay nada."
+  - name: "Punto de Interes Completado [5828]"
+    location: [3267, 2155]
+    description: "La lich y el revivido Xyraxis fueron finalmente derrotados. El Enclave esmeralda se encarga de recuperar las tierras de la corrupción del lugar, los Zhentarim poseen un puesto de Avanzada aquí ahora y una joven Dragona Verde cuida al renacido árbol en el centro del lugar una vez más."
+  - name: "Torre de las almas caídas [5116]"
+    location: [2881, 2889]
+    description: "Torre en medio de la nada que posee un aura siniestra, se comenta que dentro de ella los aventureros y personas caídas vuelven para imponer una prueba a quienes decidan visitarla."
+  - name: "Punto de Interes Completado [5632]"
+    location: [3150, 1878]
+    description: "Finalmente el mal ancestral que estaba atado a esta tierra ha sido desterrado del sitio hacia un rincón distante del mundo."
+  - name: "Punto de Interes Completado [4836]"
+    location: [2700, 1640]
+    description: "Laberinto del minotauro. La siniestra torre que aquí se encontraba ha caído junto a los cultistas que la habitaban."
+  - name: "Punto de Interes Completado [4925]"
+    location: [2775, 2364]
+    description: "La Ciudad sobre las Nubes . El Gremio logró recuperar el Tomo de las Nubes y el clan de Cloud Giants permanecen como aliados de Antaras."
+  - name: "Punto de Interes Completado [6820]"
+    location: [3816, 2643]
+    description: "Sabana Masacrada. Una sabana llena de gnolls que la asechan a diario dominada 4 grandes manadas. Con las caravanas Gnolls derrotadas, el acceso a la ciudad de Anastracht queda abierto a los miembros de Antaras. Esta ciudad esta resguardada gracias a miembros del 'Lord's Alliance' y protegida por novatos de la 'Orden del Guantelete'."
+  - name: "Punto de Interes Completado  [5824]"
+    location: [3266, 2381]
+    description: "El bosque de Troladi. Un bosque frondoso ocupado por una comunidad de elfas del bosque. Luego de acabar de manera exitosa con la misteriosa maldición que estaba en el bosque. El pueblo de Troladi ahora vive en paz."
+  - name: "Punto de Interes Completado [7134]"
+    location: [3986, 1707]
+    description: "El Pueblo Sombrio. Aquí solo quedan una villa abandonada y un campo de trigo muerto, se habla de bestias demoniacas que rondan las cercanías "
+  - name: "Punto de Interes Completado [5832]"
+    location: [3270, 1874]
+    description: "Las Manchas Rojas es una pequeña aldea esculpida en la roca del interior de un desierto. Con la fuente de la corrupción destruida el agua vuelve a estar purificada, recuperando las esperanzas para el pueblo gracias al Gremio."
+  - name: "Punto de Interes Completado [5527]"
+    location: [3093, 2200]
+    description: "En este lugar hay una noche eterna y una densa niebla, ademas las tierra es infertil"
+  - name: "Punto de Interes Completado [6630]"
+    location: [3687, 2007]
+    description: "Bahía de las Reliquias . La Capitana Nena Dazzling utilizó el tesoro que el Gremio no logró recuperar para financiar una enorme flota de piratas que amenazaria las rutas de comercio de Naberu. Con bandera negra, con dos espadas cruzadas debajo de un craneo rojo, La Flota de la Faja Roja es liderada por el navio 'Wicked Maple' comandado por la misma Capitana Dazzling"
+  - name: "Punto de Interes Completado [6025]"
+    location: [3392, 2337]
+    description: "Tres aldeas que por fin son libres de la maldición que los encerraba. Aceptan a expedicionarios para descansar y comerciar."
+  - name: "Punto de Interes Completado [5134]"
+    location: [2854, 1718]
+    description: "La Ciudad Dorada de Selenam. Liberados de la tirania del gobierno de los diablos, la ciudad agradecida con el Gremio empieza a su recuperacion de vida humilde"
+  - name: "Punto de interes Completado [6224]"
+    location: [3490, 2384]
+    description: "Fiordo de la Absolución . Una torre blanca construida en el interior del fiordo donde termina el rio. Una presencia celestial domina el lugar. Antaras no es bienvenido y el rio esta protegido por guerreros Aasimar. Los efectos de Celestiales protegen el Hex debilitando a criaturas malignas."
+  - name: "Punto de Interes Completado [7119]"
+    location: [3986, 2718]
+    description: "Castillo de Vaes Khalar. Al obtener el control total del castillo. Lord Vaes Khalar ofrece un puerto seguro pero la ruta maritima ha sido bloqueada por piratas."
+  - name: "Estrellas entre Las Nieblas [5326]"
+    location: [2985, 2225]
+    description: "Unas extrañas nieblas rodean este lugar, detrás de ellas un grupo de nómades llamados 'Vistani' busca recuperar la salud de una joven niña con mucho potencial."
+  - name: "Punto de Interes Completado [5533]"
+    location: [3092, 1808]
+    description: "El Rio Irving. Con las pruebas de Tyr superadas y el portal hacia Asgard cerrado, los clanes enanos pueden volver a vivir en paz gracias a la ayuda recibida y la alianza pactada con la ciudad de Antaras."
+  - name: "La gran bobina [5529]"
+    location: [3107, 2038]
+    description: "Un poblado con tecnología avanzada gracias a un extraño inventor."
+  - name: "Punto de Interes Completado [6034]"
+    location: [3379, 1775]
+    description: "La cumbre de los divinos. Los expedicionarios logran escapar con la reliquia la cual fue dada a Gisella para evitar la llegada de más celestiales."
+  - name: "La mina de Darrowdwell [6431]"
+    location: [3574, 1964]
+    description: "Antigua mina enana, cuya entrada se encuentra en la cima de la montaña. Un pequeño pueblo al pie de la misma ha reportado desapariciones, encontrándose un rastro que sube el escarpado camino a la cima."
+  - name: "Urr, el descanso [5031]"
+    location: [2785, 1950]
+    description: "Una metrópolis sobrepasada por la naturaleza resguarda los secretos de un antiguo imperio."
+  - name: "Templo Interior [6922]"
+    location: [3870, 2489]
+    description: "Un antiguo templo monástico con figuras en posiciones extrañas. Invita a un viaje de autoconocimiento y reflexión, en el plano astral."
+  - name: "Punto de Interes Completado [7014]"
+    location: [3893, 3043]
+    description: "La ciudad no permite mas venta de esclavos , y da puerto seguro a poco precio a las naves de Antaras (excepcion barco de Krammek que es gratis)"
+  - name: "Punto de Interes Completado [6921]"
+    location: [3877, 2573]
+    description: "Castillo Hierro Nevado. A costa de la muerte del señor la gente ha encontrado la cura sus dolencias y la tierra antes muerta, regresa a la vida. El comercio es oficialmente establecido entre el lugar y Antaras y sus representantes son bienvenidos."
+  - name: "Punto inicial ciudadela [5825]"
+    location: [3231, 2326]
+    description: "Una nave Mindflayer se estrello en la montaña despues de que el Gran Cerebro a bordo fuera derrotado. Los arqueologos Colton y Lanaya investigan la tecnologia de estos seres para posible uso del del Gremio de Antaras."
+  - name: "El Desierto Infinito de Nemri [5726]"
+    location: [3205, 2240]
+    description: "En lo profundo del bosque se encuentran unas ruinas, entre las cuales hay un portal que lleva a un desierto de extensión desconocida. "
+  - name: "Gremio exploradores"
+    location: [2995, 2677]
+    description: "Aquí es donde empieza la fiesta"
+  - name: "Punto de Interes Completado [6935]"
+    location: [3849, 1628]
+    description: "El Bastión del Terror. Una fortaleza orco abandonada. En las montañas que la rodean se dicen se han visto orcos demoniacos que se alimentan de la carne de humanoides."
+  - name: "Torre Fiendvern [6737]"
+    location: [3760, 1533]
+    description: "Torre de una civilización antigua que ha sido tomada por demonios, se escucha desde fuera los rugidos de lo que pareciera ser un dragón."
+  - name: "Cordillera del Dragón [5512]"
+    location: [3105, 3130]
+    description: "Un conjunto de montañas que ocultan unas ciudadelas. Un dragón loco rodea la zona, atacando a los que se aventuren por la superficie."
+  - name: "Punto de Interes Completado [6633]"
+    location: [3699, 1812]
+    description: "La Selva Negra. Una densa selva que alberga diferentes tipos de creaturas, Con el subdulo Plan del Falso Arqueologo , el templo vuelve a su normalidad y los goblins Tasloi hospitaran a los exploradores sin ser atacados"
+  - name: "Punto de Interes Completado [5033]"
+    location: [2799, 1797]
+    description: "Ciudad Amannias. En estado de recuperación un casi exitoso genocidio, la ciudad da la bienvenida a miembros del Gremio de Antaras. Las familias nobles abrieron un puesto en su consejo para un representante de Antaras, esperando que en un futuro el Gremio ayude con la investigación del 'misterio' de la monte."
+  - name: "Punto de Interes Completado [6336]"
+    location: [3527, 1602]
+    description: "La Villa de Ark'Ozz. La villa que existía aquí desapareció con la niebla, sin embargo por alguna razón los efectos de amnesia siguen afectando a viajeros por esta zona, haciendo que se pierdan por días oh mas."
+  - name: "Punto de Interes Completado [6023]"
+    location: [3383, 2489]
+    description: "La camara Drow. La matrona Drow al haber completado su ritual, se ha transformado en una Poderosa Draegloth, que sale junto a sus secuaces a cazar a cualquier infortunado que se la encuentra en las noches, llevando a vivos y muertos por igual hacia las profundidades para seguir extendiendo su ejercito de abominaciones."
+  - name: "Punto de Interes Completado [6814]"
+    location: [3817, 3082]
+    description: "Gurth Galad. El castigo divino de la dama de plata y el señor de la mañana cayó sobre este lugar, dejando solo un gran cráter vacío, los no muertos del lugar erradicados y el agente del caos ultimado."
+  - name: "Gremio exploradores"
+    location: [3755, 2433]
+    description: "Aquí empieza la mandanga :)"
+  - name: "Mecanismo Belderak [6618]"
+    location: [3707, 2776]
+    description: "Un campamento de Gnomos de Lantan pide ayuda al Gremio para investigar y descubrir el misterio detrás de una zona cuyas construcciones desconocidas son deambuladas por diferentes tipos de constructos."
+  - name: "Punto de Interes Completado [7035]"
+    location: [3911, 1703]
+    description: "Il Jardin de los elementos. Despues de la ayuda dada de los exploradores de Antaras , este lugar es un pueblo pacifico y especificamente rural/campesino donde podran reposar en tranquilidad y comprar solo raziones y cosas comunes."
+  - name: "La Montaña Púrpura [7117]"
+    location: [3977, 2837]
+    description: "Una alta montaña de difícil escalada de vez en cuando emite fuertes destellos color púrpura. La gente que vive a sus pies sospechan de alguna causa mágica para este fenómeno"
+  - name: "Centro de Investigación ATLAS [6714]"
+    location: [3770, 3019]
+    description: "Un extraño laboratorio Deep Gnome que se encuentra al interior de una montaña, donde una misteriosa entidad que se autodenomina su fundador pide ayuda para descontaminar las diferentes áreas de este de una radiación mágica llamada Faerzress."
+  - name: "Mecanismo Oculto [6135]"
+    location: [3417, 1670]
+    description: "Un dungeon creado por un gnome Artificer que busca proteger sus invenciones."
+  - name: "Punto de Interes Completado [4234] - Punto Maestro"
+    location: [2359, 1750]
+    description: "El Cicerone de Flimböel. El complejo protegido por lo que alguna vez fue el legado de Flimböel se ha perdido para siempre. Las 4 armas mágicas que ahí permanecían protegidas fueron retiradas pero ahora, su verdadero amo las llama para que vuelvan a sus manos."
+  - name: "La Bóveda de la Filacteria [4429] - Punto Maestro"
+    location: [2481, 2054]
+    description: "Una comunidad de Gnomos de las Rocas y Derros que habita en un complejo de cavernas subterráneas temen por su seguridad al encontrar un par de gigantescas puertas completamente selladas."
+  - name: "La Corte de Mecenas [6116]"
+    location: [3406, 2886]
+    description: "En esta zona de bosque poco denso, hay un pequeño lago con un refugio para hadas exiliadas del Feywild. Esperan la ayuda del Gremio para abrir un portal y regresar a su hogar.."
+  - name: "Dominio de Val’Shara [5939]"
+    location: [3324, 1395]
+    description: "Una ciudad abandonada a la orilla del mar, donde su soberano busca recuperar todo lo que le fue arrebatado, pieza por pieza su dominio y todo bajo el mismo, buscará."
+  - name: "El Asedio de Khar Gorum [6732]"
+    location: [3754, 1877]
+    description: " El clan Stoneborn pide ayuda para retomar la ancestral fortaleza de Khar Gorum, enviando panfletos de reclutamiento para los expedicionarios de la ciudad de Antaras."
+  - name: "Lago de la Sombra [4210]"
+    location: [2368, 3304]
+    description: "En esta isla habita un bosque antiguo, cuyos habitantes naturales tratan de detener una corrupción creciendo desde el centro de ella."
+  - name: "Vena de Invierno [5231]"
+    location: [2909, 1915]
+    description: "Un pueblo en lo alto de la montaña esta teniendo una época dorada gracias a la bendición del nuevo Dios Grobark, buscan crecer con la ayuda del gremio y reclamar glorias pasadas."
+  - name: "Bosque Espíritu [5907]"
+    location: [3318, 3498]
+    description: "Un bosque donde se dice que los espíritus habitan, hay quienes dicen haber escuchado el llanto de los  espíritus cuando te encuentras cerca de lo más profundo del bosque."
+  - name: "Hasta el Abismo [5835]"
+    location: [3266, 1694]
+    description: "En una red de cavernas subterráneas se encuentra un soñador y sus desvaríos son inspiración para una campaña de se secuestros a los pueblos cercanos."
+  - name: "Las Fauces de Vordhall [6612]"
+    location: [3680, 3178]
+    description: "Una espiral de energía necrótica sobre una torre anuncia la llegada de un antiguo y poderoso enemigo, con ejércitos reuniéndose bajo un mismo estandarte."
+  - name: "El Arca Astral [4228]"
+    location: [2390, 2144]
+    description: "Una pequeña grieta dimensional en medio de un yermo desolado donde yace un antiguo y misterioso portal de roca que permite el ingreso directo al Plano Astral."
+  - name: "La  Boveda de Ilphemon [4527]"
+    location: [2553, 2167]
+    description: "Una boveda Duergar antigua que descansa en lo profundo del Underdark. Un hechicero Imaskari ha pedido la ayuda del Gremio para recuperar un tesoro perdido, siendo el el unico que puede abrir el camino a un  descenso de ocho dias hacia estas bovedas ahora infestadas por Drow."
+  - name: "El pueblo Entintado [6215]"
+    location: [3488, 3007]
+    description: "Los expedicionarios son enviados una carta la cual el pueblo de Yellowseed pide ayuda. Los motivos aún son desconocidos, pero hay una magia que hace que la tinta tome forma de criaturas aberrantes que ahora van por las calles del pueblo."
+  - name: "Los Picos de la Locura [5532]"
+    location: [3096, 1836]
+    description: "Un camino extraño que recorre las faldas de la montaña hacia la cima y un grupo de susurros se escucha desde la punta.."
+  - name: "Punto de Interes Completado [7132]"
+    location: [3988, 1847]
+    description: "El Bosque Purulento. La tierra aunque todavía demacrada empieza a curarse con el paso de los días, dando paso a una nueva página en el bosque."
+  - name: "El Obelisco del Desierto [5335]"
+    location: [2988, 1665]
+    description: "Una construcción se está creando al entrar al desierto, las personas que habitan las inmediaciones piden apoyo para poder continuar los trabajos y evitar lo que quiere detener la construccion."
+  - name: "El Reino de Urgant [3417]"
+    location: [1916, 2849]
+    description: "Un reino dirigido por un tirano rey, Thadeus Edmos, es sometido con mano de hierro por el y su corte de generales. Sus pueblos, canteras y bosques están repletos de problemas y misterios.."
+  - name: "Infierno de Crematoria [6112]"
+    location: [3428, 3137]
+    description: "Zona vulcanica , en un mar de magma se encuentra la ciudad de Crematoria , donde una gran puerta tiene escondido el infierno que encierra."
+  - name: "El Eclipse [6636]"
+    location: [3699, 1634]
+    description: "A las faldas de la montaña se encuentra la ciudad enana Alma de Montaña, que esta siendo constantemente atacada por criaturas a causa de misterios de las profundades del la tierra y del cielo."
+  - name: "La Colmena de Villa Leones [6835]"
+    location: [3823, 1699]
+    description: "Cerca de una villa, se encuentra una enorme colmena habitada por insectos gigantes. Enormes avispas que raptan personas de la villa."
+  - name: "Las voces del pasado [5817]"
+    location: [3248, 2829]
+    description: "Un enorme templo dedicado a una antigua deidad del Sol se encuentra en medio de una ciudad en ruinas."
+  - name: "La torre sumergida [6334]"
+    location: [3525, 1718]
+    description: "Al intentar salvar a una villa de pescadores, un mago invocó el poder del oceano, una torre y mas peligros de las profundidades aparecieron. Si no se detiene inundira toda la region."
+  - name: "La Mazmorra de Damaskynos [6734] "
+    location: [3727, 1715]
+    description: "En el umbral de una pequeña cueva con forma de cúpula tallada en la roca, flanqueada por exquisitas estatuas se encuentra la entrada a una tumba de arquitectura humana"
+  - name: "El Paso de Wigar  [7135]"
+    location: [3945, 1646]
+    description: "Un camino entre las montañas custodiado por un gigantesco guardian, para poder pasar se tendrá que liberar el paso y los desafios que ahi se encuentran"
+  - name: "La Ciénaga Dorada [5624]"
+    location: [3142, 2391]
+    description: "Diferentes grupos de poder intentan hacerse con el control de la ciénaga, quien saldrá victorioso de este enfrentamiento estará por verse."
+  - name: "Templo a Dendar [3932]"
+    location: [2206, 1826]
+    description: "Un templo Yuan-ti esculpido en una montaña, lleno de trampas y cuartos secretos, guarda relación con la serpiente Dendar."
