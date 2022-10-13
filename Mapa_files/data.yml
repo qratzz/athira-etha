@@ -1,10 +1,10 @@
 settings:
   image:
     src: "Mapa_files/map/Athira_Etha.jpeg"
-    size: [4143, 4000]
+    size: [4000, 4000]
   position: [2974, 2117]
   zoom:
-    base: -3
+    base: 100
     min: -10
     max: 10
   icon:
